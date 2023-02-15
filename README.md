@@ -1,5 +1,6 @@
-### Hi there 👋
+## Hey there, I'm Jakub Soroka 🙋‍♂️
 
+### I'm a software engineer, looking to turn my passion into something meaningful.
 <!--
 **S-oroka/S-oroka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
